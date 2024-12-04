@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10.0)
-project(vulkan-tutorial VERSION 0.1.0 LANGUAGES CXX)
+project(VulkanTutorial VERSION 0.1.0 LANGUAGES CXX)
 
 set(GLFW_DIR ${CMAKE_SOURCE_DIR}/dependencies/glfw)
 set(VULKAN_DIR ${CMAKE_SOURCE_DIR}/dependencies/vulkan)
